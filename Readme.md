@@ -4,7 +4,7 @@ Go client for [beanstalkd](https://beanstalkd.github.io).
 
 ## Install
 
-    $ go get github.com/beanstalkd/go-beanstalk
+    $ go get github.com/hexon/beanstalk
 
 ## Use
 
